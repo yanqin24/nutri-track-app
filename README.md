@@ -42,6 +42,7 @@ python app.py
 Then open http://localhost:5000 in your browser.
 
 ## Project Structure
+```
 ├── app.py                      # Main Flask app
 ├── templates/                  # HTML templates
 ├── static/                     # CSS and images
@@ -51,6 +52,7 @@ Then open http://localhost:5000 in your browser.
 │   ├── analysis.py             # Nutrition calculations
 │   ├── report_generator.py     # PDF/Excel generation
 ├── requirements.txt
+```
 
 ## License
 This project is licensed under the MIT License.

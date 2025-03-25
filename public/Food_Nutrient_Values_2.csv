@@ -1,0 +1,539 @@
+Food_items,Calories,Total fat (g),Sat Fat (g),Trans fat (g),Cholesterols (mg),Sodium (mg),Carbohydrate (g),Sugars (g),Fiber(g),Protein (g),Category
+Abita Root Beer Bottle,180 ,0 ,0 ,0 ,0 ,16 ,44 ,0 ,38 ,0 ,Fastfood
+Abita Root Beer Large,280 ,0 ,0 ,0 ,0 ,25 ,69 ,0 ,59 ,0 ,Fastfood
+Abita Root Beer Small,170 ,0 ,0 ,0 ,0 ,15 ,42 ,0 ,36 ,0 ,Fastfood
+Add Cheese Sauce,80 ,7 ,5 ,0 ,30 ,95 ,1 ,0 ,0 ,2 ,Fastfood
+American Cheese,40 ,4 ,2 ,0 ,10 ,210 ,1 ,0 ,0 ,2 ,Fastfood
+American Cheese,70 ,6 ,4 ,0 ,15 ,340 ,1 ,0 ,0 ,4 ,Fastfood
+American Chicken Burger,447 ,23 ,7 ,0 ,48 ,1132 ,39 ,7 ,0 ,20 ,Fastfood
+American Chicken Burger,447 ,23 ,7 ,0 ,48 ,1132 ,39 ,7 ,0 ,20 ,Fastfood
+American Club,430 ,24 ,10 ,1 ,120 ,1700 ,14 ,3 ,7 ,41 ,Fastfood
+American Mud Pie Shake,398 ,13 ,11 ,0 ,11 ,186 ,65 ,53 ,0 ,6 ,Fastfood
+American Triple Cheese Chicken,458 ,23 ,12 ,0 ,71 ,1396 ,37 ,8 ,0 ,24 ,Fastfood
+American Triple Cheese Veg,525 ,23 ,15 ,0 ,49 ,1174 ,56 ,8 ,0 ,20 ,Fastfood
+American Veg Burger,512 ,23 ,11 ,0 ,25 ,1051 ,57 ,8 ,8 ,15 ,Fastfood
+Americano,23 ,0 ,0 ,0 ,0 ,1 ,5 ,0 ,0 ,1 ,Beverages
+Americano (L),27 ,0 ,0 ,0 ,1 ,1 ,5 ,0 ,0 ,1 ,Fastfood
+Americano (R),23 ,0 ,0 ,0 ,0 ,1 ,5 ,0 ,0 ,1 ,Fastfood
+Americano (S),13 ,0 ,0 ,0 ,0 ,0 ,3 ,0 ,0 ,1 ,Fastfood
+Apple Cider Donut Shake,970 ,45 ,25 ,0 ,250 ,580 ,123 ,1 ,99 ,21 ,Fastfood
+Artisan Flatbread,230 ,4 ,1 ,0 ,0 ,330 ,43 ,4 ,3 ,8 ,Fastfood
+B.L.T.,340 ,23 ,8 ,0 ,65 ,1060 ,10 ,3 ,6 ,23 ,Fastfood
+Babycino,144 ,4 ,3 ,0 ,12 ,96 ,23 ,19 ,0 ,4 ,Fastfood
+banana bowl,47 ,0 ,0 ,0 ,0 ,0 ,12 ,10 ,0 ,0 ,Fruits
+Bacon,70 ,6 ,2 ,0 ,15 ,250 ,1 ,0 ,1 ,5 ,Meat
+Bacon,70 ,6 ,2 ,0 ,15 ,250 ,1 ,0 ,1 ,5 ,Fastfood
+Bacon,70 ,6 ,2 ,0 ,15 ,250 ,1 ,0 ,1 ,5 ,Fastfood
+Bacon (2 Slices),70 ,5 ,2 ,0 ,15 ,290 ,0 ,0 ,0 ,6 ,Fastfood
+Bacon Breakfast Sandwich,400 ,23 ,10 ,0 ,230 ,890 ,25 ,0 ,5 ,23 ,Fastfood
+Bacon Breakfast Sandwich (Double Egg),490 ,30 ,12 ,0 ,410 ,990 ,26 ,0 ,6 ,29 ,Fastfood
+Bacon Cheese Fries,840 ,52 ,21 ,0 ,125 ,1570 ,65 ,7 ,1 ,24 ,Fastfood
+"Bacon Cheeseburger, double",760 ,47 ,21 ,2 ,190 ,2510 ,25 ,0 ,6 ,58 ,Fastfood
+"Bacon Cheeseburger, single",500 ,29 ,13 ,1 ,110 ,1480 ,25 ,0 ,5 ,35 ,Fastfood
+"Bacon, Egg & Cheese",460 ,20 ,7 ,0 ,190 ,1200 ,47 ,4 ,4 ,25 ,Fastfood
+"BACON,MEATLESS",309 ,27 ,5 ,0 ,0 ,1465 ,5 ,0 ,3 ,12 ,Meat
+Banana Peppers,0 ,0 ,0 ,0 ,0 ,65 ,0 ,0 ,0 ,0 ,Fastfood
+BBQ Chicken,330 ,4 ,1 ,0 ,50 ,860 ,50 ,2 ,16 ,24 ,Fastfood
+BBQ diping sauce,55 ,0 ,0 ,0 ,0 ,113 ,12 ,8 ,0 ,0 ,Fastfood
+BBQ Rib,580 ,31 ,10 ,0 ,60 ,1260 ,54 ,3 ,18 ,21 ,Fastfood
+BBQ Rib,440 ,30 ,10 ,0 ,60 ,910 ,28 ,5 ,20 ,17 ,Fastfood
+BBQ Rib Signature Wrap,1080 ,65 ,23 ,0 ,115 ,2560 ,86 ,5 ,12 ,38 ,Fastfood
+BBQ Rib Signature Wrap,1080 ,65 ,23 ,0 ,115 ,2560 ,86 ,5 ,32 ,38 ,Fastfood
+BBQ Sauce,70 ,0 ,0 ,0 ,0 ,380 ,16 ,0 ,14 ,1 ,Fastfood
+Beer Float,490 ,15 ,9 ,0 ,100 ,190 ,52 ,0 ,30 ,8 ,Fastfood
+Black & White Shake,770 ,42 ,26 ,0 ,245 ,460 ,80 ,0 ,76 ,19 ,Fastfood
+Black Forest Ham,450 ,12 ,5 ,0 ,55 ,1680 ,57 ,4 ,5 ,29 ,Meat
+Black Forest Ham,260 ,4 ,2 ,0 ,30 ,720 ,42 ,5 ,8 ,18 ,Fastfood
+Black Forest Ham,450 ,12 ,5 ,0 ,55 ,1680 ,57 ,4 ,5 ,29 ,Fastfood
+Black Forest Ham,170 ,5 ,2 ,0 ,55 ,1010 ,12 ,3 ,6 ,21 ,Fastfood
+Black Forest Ham,120 ,3 ,1 ,0 ,30 ,550 ,12 ,4 ,6 ,13 ,Fastfood
+"Black Forest Ham, Egg & Cheese",420 ,16 ,5 ,0 ,185 ,1190 ,47 ,4 ,4 ,24 ,Fastfood
+Black Olives,0 ,0 ,0 ,0 ,0 ,25 ,0 ,0 ,0 ,0 ,Fastfood
+blueberries,57 ,0 ,0 ,0 ,0 ,1 ,14 ,10 ,2 ,1 ,Fruits
+"BLUEBERRIES,RAW",57 ,0 ,0 ,0 ,0 ,1 ,14 ,10 ,2 ,1 ,Fruits
+blueberry yogurt,160 ,2 ,1 ,0 ,9 ,123 ,26 ,10 ,2 ,9 ,Dairy products
+Bourbon Salted Honey Shake,890 ,44 ,27 ,0 ,260 ,700 ,89 ,0 ,87 ,18 ,Fastfood
+"Brat Burger, Double",1050 ,73 ,25 ,2 ,205 ,2530 ,34 ,0 ,6 ,62 ,Fastfood
+"Brat Burger, Single",860 ,61 ,20 ,1 ,140 ,1850 ,34 ,0 ,6 ,44 ,Fastfood
+Brooklyn Brewery ShackMeister Ale (16oz. Draft),210 ,0 ,0 ,0 ,0 ,0 ,17 ,0 ,0 ,2 ,Fastfood
+Brooklyn Brewery ShackMeister Ale (24oz. Draft),310 ,0 ,0 ,0 ,0 ,0 ,25 ,0 ,0 ,4 ,Fastfood
+Brooklyn Brewery ShackMeister Ale (32oz. Draft),420 ,0 ,0 ,0 ,0 ,0 ,33 ,0 ,0 ,5 ,Fastfood
+Brooklyn Brewery ShackMeister Ale (60oz. Draft),780 ,0 ,0 ,0 ,0 ,0 ,62 ,0 ,0 ,9 ,Fastfood
+Buffalo Chicken,360 ,12 ,2 ,0 ,55 ,7710 ,39 ,3 ,5 ,24 ,Fastfood
+Buffalo Chicken,370 ,20 ,4 ,0 ,110 ,14860 ,13 ,3 ,7 ,35 ,Fastfood
+Buffalo Chicken,220 ,11 ,2 ,0 ,55 ,7470 ,12 ,4 ,6 ,20 ,Fastfood
+Burger Patty,190 ,12 ,5 ,1 ,65 ,690 ,0 ,0 ,0 ,19 ,Fastfood
+butter crossiant,406 ,18 ,12 ,0 ,67 ,467 ,46 ,11 ,3 ,8 ,Desserts
+Caesar,80 ,9 ,2 ,0 ,5 ,130 ,0 ,0 ,0 ,0 ,Fastfood
+Caesar Chicken,470 ,31 ,10 ,1 ,140 ,920 ,10 ,3 ,6 ,42 ,Fastfood
+cake,258 ,1 ,0 ,0 ,0 ,749 ,58 ,30 ,2 ,6 ,Desserts
+Cappuccino,184 ,10 ,7 ,0 ,30 ,129 ,17 ,12 ,0 ,9 ,Beverages
+Cappuccino (L),219 ,12 ,9 ,0 ,37 ,155 ,20 ,14 ,0 ,11 ,Fastfood
+Cappuccino (R),184 ,10 ,7 ,0 ,30 ,129 ,17 ,12 ,0 ,9 ,Fastfood
+Cappuccino (S),125 ,7 ,5 ,0 ,21 ,90 ,11 ,8 ,0 ,6 ,Fastfood
+Cheddar,60 ,5 ,3 ,0 ,15 ,90 ,0 ,0 ,0 ,4 ,Fastfood
+Cheese Fries,710 ,44 ,19 ,0 ,95 ,1020 ,64 ,7 ,1 ,12 ,Fastfood
+Cheese Lava Burger,671 ,33 ,14 ,0 ,33 ,1154 ,74 ,16 ,0 ,15 ,Fastfood
+Cheese Slice,51 ,4 ,3 ,0 ,13 ,179 ,1 ,1 ,0 ,3 ,Fastfood
+Cheesy Veg Nuggets (6pc),252 ,13 ,8 ,0 ,20 ,428 ,24 ,1 ,0 ,8 ,Fastfood
+Cheesy Veg Nuggets (9pc),378 ,20 ,11 ,0 ,30 ,642 ,35 ,2 ,0 ,13 ,Fastfood
+Cherry Peppers,10 ,0 ,0 ,0 ,0 ,470 ,2 ,0 ,2 ,0 ,Fastfood
+Chicken & Bacon Ranch,800 ,39 ,15 ,1 ,170 ,1970 ,56 ,4 ,5 ,59 ,Fastfood
+Chicken & Bacon Ranch,530 ,26 ,10 ,1 ,100 ,1100 ,41 ,3 ,6 ,36 ,Fastfood
+Chicken & Bacon Ranch,800 ,39 ,15 ,1 ,170 ,1970 ,56 ,4 ,5 ,59 ,Fastfood
+Chicken & Bacon Ranch,600 ,40 ,13 ,1 ,175 ,1450 ,12 ,3 ,8 ,52 ,Fastfood
+Chicken & Bacon Ranch,460 ,33 ,11 ,1 ,105 ,1000 ,13 ,4 ,7 ,32 ,Fastfood
+Chicken Bites (10 piece),510 ,32 ,6 ,0 ,85 ,1300 ,26 ,0 ,2 ,29 ,Fastfood
+Chicken Bites (6 piece),300 ,19 ,4 ,0 ,50 ,780 ,15 ,0 ,1 ,17 ,Fastfood
+Chicken Caesar,610 ,25 ,9 ,0 ,120 ,1450 ,52 ,3 ,4 ,46 ,Fastfood
+Chicken Cheese Lava Burger,834 ,45 ,17 ,0 ,73 ,1745 ,76 ,17 ,0 ,27 ,Fastfood
+Chicken Kebab Burger,357 ,14 ,5 ,0 ,2 ,549 ,48 ,5 ,0 ,9 ,Fastfood
+Chicken Kebab Burger,357 ,14 ,5 ,0 ,2 ,549 ,48 ,5 ,0 ,9 ,Fastfood
+Chicken Maharaja Mac,689 ,37 ,10 ,0 ,81 ,1855 ,55 ,9 ,1 ,34 ,Fastfood
+Chicken Mango Curry,330 ,7 ,2 ,0 ,50 ,840 ,43 ,3 ,9 ,24 ,Fastfood
+Chicken Pizziola,500 ,28 ,12 ,1 ,165 ,1490 ,17 ,4 ,10 ,49 ,Fastfood
+Chicken Shack™,550 ,31 ,7 ,0 ,110 ,1170 ,34 ,0 ,6 ,33 ,Fastfood
+Chicken Tikka,290 ,5 ,1 ,0 ,50 ,720 ,39 ,2 ,6 ,23 ,Fastfood
+Chicken Vindaloo,340 ,9 ,1 ,0 ,50 ,880 ,42 ,3 ,7 ,24 ,Fastfood
+Chilli Sauce,8 ,0 ,0 ,0 ,0 ,65 ,2 ,2 ,0 ,0 ,Fastfood
+chinese_fried_rice,348 ,5 ,1 ,0 ,36 ,774 ,66 ,1 ,2 ,8 ,Fastfood
+Chipotle Southwest,60 ,7 ,1 ,0 ,5 ,110 ,1 ,0 ,1 ,0 ,Fastfood
+Chipotle Southwest Steak & Cheese,710 ,33 ,12 ,1 ,95 ,2170 ,63 ,7 ,7 ,41 ,Fastfood
+Choco Salted Toffee Shake,920 ,47 ,28 ,2 ,260 ,770 ,111 ,4 ,97 ,21 ,Fastfood
+Chocolate Oreo Frappe,481 ,19 ,16 ,0 ,9 ,333 ,73 ,55 ,0 ,6 ,Fastfood
+Chocolate Shake,750 ,45 ,27 ,2 ,255 ,310 ,76 ,0 ,0 ,16 ,Fastfood
+Chocolate Shake,750 ,45 ,27 ,2 ,255 ,310 ,76 ,0 ,69 ,16 ,Fastfood
+Chocolate Shake,271 ,8 ,7 ,0 ,8 ,178 ,47 ,38 ,0 ,4 ,Fastfood
+Chunky Chipotle American Burger Chicken,641 ,32 ,10 ,0 ,110 ,1906 ,46 ,9 ,0 ,39 ,Fastfood
+Coke Float,139 ,2 ,1 ,0 ,5 ,45 ,29 ,28 ,0 ,2 ,Fastfood
+Coke Large,210 ,0 ,0 ,0 ,0 ,65 ,58 ,0 ,58 ,0 ,Fastfood
+Coke Small,140 ,0 ,0 ,0 ,0 ,45 ,39 ,0 ,39 ,0 ,Fastfood
+Coke Zero Can,1 ,0 ,0 ,0 ,0 ,25 ,0 ,0 ,0 ,0 ,Fastfood
+Coke Zero Large,0 ,0 ,0 ,0 ,0 ,60 ,0 ,0 ,0 ,0 ,Fastfood
+Coke Zero Small,0 ,0 ,0 ,0 ,0 ,40 ,0 ,0 ,0 ,0 ,Fastfood
+Cold Coffee Frappe,331 ,15 ,14 ,0 ,9 ,189 ,45 ,36 ,0 ,5 ,Fastfood
+Cold Cut Combo,160 ,9 ,2 ,0 ,45 ,700 ,10 ,4 ,5 ,12 ,Vegetables
+Cold Cut Combo,310 ,10 ,2 ,0 ,45 ,930 ,38 ,2 ,5 ,16 ,Fastfood
+Cold Cut Combo,530 ,24 ,7 ,0 ,95 ,1970 ,54 ,3 ,4 ,27 ,Fastfood
+Cold Cut Combo,260 ,16 ,4 ,0 ,95 ,1310 ,9 ,3 ,5 ,20 ,Fastfood
+Cold Cut Combo,160 ,9 ,2 ,0 ,45 ,700 ,10 ,4 ,5 ,12 ,Fastfood
+Cookies & Cream Shake,850 ,44 ,24 ,0 ,235 ,580 ,98 ,0 ,86 ,19 ,Fastfood
+cream potatoes soup,74 ,2 ,1 ,0 ,1 ,604 ,13 ,1 ,1 ,2 ,Soups
+Creamsicle® Float,440 ,15 ,9 ,0 ,100 ,240 ,75 ,0 ,74 ,7 ,Fastfood
+Cripsy Cauliflower Ranch Signature Wrap,830 ,35 ,8 ,0 ,5 ,2440 ,114 ,7 ,5 ,15 ,Fastfood
+Crispy Shallots,110 ,8 ,2 ,0 ,0 ,95 ,7 ,0 ,0 ,1 ,Fastfood
+Crispy Shallots,110 ,8 ,2 ,0 ,0 ,95 ,7 ,0 ,0 ,1 ,Fastfood
+Crush Large,240 ,0 ,0 ,0 ,0 ,110 ,65 ,0 ,64 ,0 ,Fastfood
+Crush Small,160 ,0 ,0 ,0 ,0 ,70 ,43 ,0 ,43 ,0 ,Fastfood
+Cucumbers,0 ,0 ,0 ,0 ,0 ,0 ,1 ,0 ,0 ,0 ,Fastfood
+"DESSERT TOPPING,PDR,1.5 OZ PREP W/1/2 CUP MILK",194 ,12 ,11 ,0 ,10 ,66 ,17 ,17 ,0 ,4 ,Desserts
+"DESSERT TOPPING,POWDERED",577 ,38 ,37 ,0 ,0 ,122 ,53 ,53 ,0 ,5 ,Desserts
+"DESSERT TOPPING,PRESSURIZED",264 ,21 ,19 ,0 ,0 ,62 ,16 ,16 ,0 ,1 ,Desserts
+"DESSERT TOPPING,SEMI SOLID,FRZ",318 ,24 ,22 ,0 ,0 ,25 ,23 ,23 ,0 ,1 ,Desserts
+Diet Coke Large,0 ,0 ,0 ,0 ,0 ,60 ,0 ,0 ,0 ,0 ,Fastfood
+Diet Coke Small,0 ,0 ,0 ,0 ,0 ,40 ,0 ,0 ,0 ,0 ,Fastfood
+Diet Dr. Pepper Large,0 ,0 ,0 ,0 ,0 ,90 ,0 ,0 ,0 ,0 ,Fastfood
+Diet Dr. Pepper Small,0 ,0 ,0 ,0 ,0 ,60 ,0 ,0 ,0 ,0 ,Fastfood
+Diet Mountain Dew Large,10 ,0 ,0 ,0 ,0 ,75 ,1 ,0 ,1 ,0 ,Fastfood
+Diet Mountain Dew Small,5 ,0 ,0 ,0 ,0 ,50 ,1 ,0 ,1 ,0 ,Fastfood
+Diet Pepsi Large,0 ,0 ,0 ,0 ,0 ,55 ,0 ,0 ,0 ,0 ,Fastfood
+Diet Pepsi Small,0 ,0 ,0 ,0 ,0 ,35 ,0 ,0 ,0 ,0 ,Fastfood
+Double Cheese McMuffin,274 ,13 ,9 ,0 ,38 ,623 ,29 ,3 ,0 ,10 ,Fastfood
+Double Cheeseburger,700 ,42 ,20 ,2 ,175 ,2220 ,25 ,0 ,5 ,51 ,Fastfood
+Double Chocochips Muffin,342 ,17 ,7 ,0 ,16 ,313 ,40 ,29 ,0 ,5 ,Fastfood
+Double Chocolate Cup,490 ,30 ,18 ,1 ,175 ,190 ,51 ,0 ,47 ,9 ,Fastfood
+Double Dark Hot Chocolate,256 ,6 ,4 ,0 ,15 ,70 ,41 ,32 ,0 ,7 ,Fastfood
+Double Down Fries,1910 ,117 ,49 ,1 ,270 ,4020 ,164 ,16 ,5 ,41 ,Fastfood
+Double Hamburger,560 ,30 ,12 ,2 ,140 ,1540 ,24 ,0 ,5 ,44 ,Fastfood
+Double ShackBurger®,760 ,48 ,20 ,2 ,185 ,2280 ,27 ,0 ,6 ,51 ,Fastfood
+Double SmokeShack™,830 ,53 ,22 ,2 ,200 ,3030 ,28 ,0 ,7 ,58 ,Fastfood
+Double SmokeShack™,830 ,53 ,22 ,2 ,200 ,3030 ,28 ,0 ,7 ,58 ,Fastfood
+Double Vanilla & Chocolate Cup,470 ,27 ,16 ,0 ,170 ,230 ,50 ,0 ,47 ,10 ,Fastfood
+Double Vanilla Cup,450 ,24 ,14 ,0 ,165 ,280 ,49 ,0 ,48 ,11 ,Fastfood
+Dr. Pepper Large,220 ,0 ,0 ,0 ,0 ,90 ,59 ,0 ,58 ,0 ,Fastfood
+Dr. Pepper Small,150 ,0 ,0 ,0 ,0 ,60 ,40 ,0 ,38 ,0 ,Fastfood
+Egg & Cheese,390 ,15 ,5 ,0 ,170 ,950 ,46 ,4 ,3 ,19 ,Fastfood
+Egg and Cheese Breakfast Sandwich,530 ,32 ,14 ,0 ,260 ,1220 ,28 ,0 ,8 ,30 ,Fastfood
+Egg and Cheese Breakfast Sandwich (Double Egg),620 ,39 ,16 ,0 ,445 ,1310 ,28 ,0 ,8 ,36 ,Fastfood
+Egg McMuffin,283 ,12 ,7 ,0 ,233 ,519 ,28 ,2 ,0 ,14 ,Fastfood
+"EGGPLANT,RAW",25 ,0 ,0 ,0 ,0 ,2 ,6 ,4 ,3 ,1 ,Meat
+English Breakfast,16 ,0 ,0 ,0 ,5 ,23 ,0 ,2 ,0 ,1 ,Fastfood
+English Breakfast (L),16 ,0 ,0 ,0 ,5 ,23 ,0 ,2 ,0 ,1 ,Fastfood
+English Breakfast (R),12 ,0 ,0 ,0 ,3 ,16 ,0 ,2 ,0 ,1 ,Fastfood
+English Breakfast (S),10 ,0 ,0 ,0 ,3 ,14 ,0 ,1 ,0 ,1 ,Fastfood
+Espresso,13 ,0 ,0 ,0 ,0 ,0 ,3 ,0 ,0 ,1 ,Fastfood
+Espresso Machiato,45 ,2 ,1 ,0 ,6 ,26 ,5 ,3 ,0 ,2 ,Fastfood
+Fanta Float,152 ,2 ,1 ,0 ,5 ,67 ,32 ,31 ,0 ,2 ,Fastfood
+Fanta Grape Large,270 ,0 ,0 ,0 ,0 ,55 ,73 ,0 ,73 ,0 ,Fastfood
+Fanta Grape Small,180 ,0 ,0 ,0 ,0 ,35 ,49 ,0 ,49 ,0 ,Fastfood
+Fanta Orange Large,240 ,0 ,0 ,0 ,0 ,90 ,67 ,0 ,66 ,0 ,Fastfood
+Fanta Orange Small,160 ,0 ,0 ,0 ,0 ,60 ,45 ,0 ,44 ,0 ,Fastfood
+Fifty-Fifty Large,140 ,0 ,0 ,0 ,0 ,15 ,36 ,0 ,33 ,0 ,Fastfood
+Fifty-Fifty Small,80 ,0 ,0 ,0 ,0 ,10 ,22 ,0 ,20 ,0 ,Fastfood
+FILLET-O-FISH Burger,348 ,14 ,6 ,0 ,33 ,531 ,39 ,6 ,7 ,15 ,Fastfood
+Flat White (L),251 ,14 ,10 ,0 ,43 ,181 ,22 ,17 ,0 ,12 ,Fastfood
+Flat White (R),216 ,12 ,9 ,0 ,36 ,155 ,19 ,14 ,0 ,10 ,Fastfood
+Flat White (S),167 ,10 ,7 ,0 ,29 ,124 ,14 ,11 ,0 ,8 ,Fastfood
+Fresh Brewed Iced Tea Large,5 ,0 ,0 ,0 ,0 ,15 ,2 ,0 ,0 ,0 ,Fastfood
+Fresh Brewed Iced Tea Small,5 ,0 ,0 ,0 ,0 ,10 ,1 ,0 ,0 ,0 ,Fastfood
+Fresh Brewed Sweetened Iced Tea Large,170 ,0 ,0 ,0 ,0 ,15 ,45 ,0 ,44 ,0 ,Fastfood
+Fresh Brewed Sweetened Iced Tea Small,110 ,0 ,0 ,0 ,0 ,10 ,28 ,0 ,2 ,0 ,Beverages
+Fresh Brewed Sweetened Iced Tea Small,110 ,0 ,0 ,0 ,0 ,10 ,28 ,0 ,27 ,0 ,Fastfood
+fried noodles,382 ,3 ,1 ,0 ,95 ,72 ,70 ,0 ,7 ,15 ,Fastfood
+fruit flavor yogurt,172 ,2 ,2 ,0 ,10 ,132 ,28 ,11 ,2 ,10 ,Dairy products
+Garden Dog,180 ,3 ,0 ,0 ,10 ,1060 ,27 ,1 ,7 ,8 ,Fastfood
+Genoa Salami,430 ,23 ,8 ,0 ,60 ,1180 ,40 ,2 ,5 ,18 ,Fastfood
+Ghee Rice with Mc Spicy Fried Chicken 1 pc,720 ,29 ,5 ,0 ,31 ,2399 ,77 ,3 ,0 ,27 ,Fastfood
+Gluten Free Bun,160 ,3 ,0 ,0 ,0 ,350 ,31 ,2 ,5 ,3 ,Fastfood
+Golden State Double,840 ,56 ,22 ,2 ,190 ,2130 ,27 ,0 ,5 ,54 ,Fastfood
+Golden State Single,560 ,37 ,13 ,1 ,100 ,1310 ,26 ,0 ,5 ,31 ,Fastfood
+Green Apple Ice Tea,95 ,0 ,0 ,0 ,2 ,10 ,24 ,21 ,0 ,0 ,Fastfood
+"Green Chile CheddarShack, Double",750 ,46 ,22 ,2 ,185 ,2190 ,28 ,1 ,6 ,53 ,Fastfood
+"Green Chile CheddarShack, Single",470 ,26 ,12 ,1 ,100 ,1380 ,28 ,1 ,6 ,30 ,Fastfood
+Green Chilli Aloo Naan,356 ,15 ,6 ,0 ,9 ,580 ,46 ,5 ,0 ,8 ,Fastfood
+Green Chilli Kebab naan,231 ,9 ,3 ,0 ,9 ,411 ,31 ,4 ,0 ,6 ,Fastfood
+Green Chilli Kebab naan,231 ,9 ,3 ,0 ,9 ,411 ,31 ,4 ,0 ,6 ,Fastfood
+Green Peppers,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,Fastfood
+Grilled Cheese,320 ,18 ,10 ,1 ,45 ,850 ,25 ,0 ,5 ,14 ,Dairy products
+Grilled Cheese,320 ,18 ,10 ,1 ,45 ,850 ,25 ,0 ,5 ,14 ,Fastfood
+Guacamole,60 ,5 ,1 ,0 ,0 ,95 ,4 ,2 ,0 ,1 ,Fastfood
+Ham Cheese Fresh Melt,520 ,29 ,10 ,1 ,75 ,940 ,38 ,2 ,5 ,29 ,Fastfood
+Hash Brown,140 ,7 ,3 ,0 ,1 ,275 ,16 ,0 ,0 ,2 ,Fastfood
+Hearty Italian,210 ,3 ,1 ,0 ,0 ,340 ,40 ,2 ,3 ,7 ,Fastfood
+Herb Mayonnaise,90 ,10 ,1 ,0 ,10 ,140 ,0 ,0 ,0 ,0 ,Fastfood
+Honest Kids Apple Juice,40 ,0 ,0 ,0 ,0 ,0 ,10 ,0 ,9 ,0 ,Fastfood
+Honey Mustard,20 ,0 ,0 ,0 ,0 ,80 ,4 ,0 ,4 ,0 ,Fastfood
+Honey Mustard,180 ,19 ,3 ,0 ,15 ,230 ,4 ,0 ,4 ,1 ,Fastfood
+Hot Cake with maple syrup,433 ,14 ,7 ,0 ,28 ,616 ,68 ,26 ,0 ,9 ,Fastfood
+Hot Chocolate,239 ,8 ,5 ,0 ,22 ,167 ,37 ,30 ,0 ,7 ,Beverages
+Hot Chocolate (L),383 ,13 ,9 ,0 ,37 ,273 ,58 ,48 ,0 ,11 ,Fastfood
+Hot Chocolate (R),297 ,9 ,6 ,0 ,25 ,207 ,48 ,39 ,0 ,8 ,Fastfood
+Hot Chocolate (S),239 ,8 ,5 ,0 ,22 ,167 ,37 ,30 ,0 ,7 ,Fastfood
+Hot Dog,350 ,22 ,10 ,0 ,50 ,800 ,25 ,0 ,6 ,16 ,Meat
+Hot Dog,350 ,22 ,10 ,0 ,50 ,800 ,25 ,0 ,6 ,16 ,Fastfood
+Hot Ones Bacon Cheese Fries,1020 ,71 ,23 ,0 ,145 ,1830 ,70 ,2 ,2 ,25 ,Fastfood
+"Hot Ones Burger, Double",860 ,56 ,23 ,2 ,205 ,2210 ,25 ,0 ,5 ,61 ,Fastfood
+"Hot Ones Burger, Single",590 ,38 ,14 ,1 ,120 ,1400 ,25 ,0 ,5 ,37 ,Fastfood
+Hot Ones Cheese Fries,890 ,62 ,20 ,0 ,120 ,1270 ,70 ,2 ,2 ,13 ,Fastfood
+Hot Ones Chicken,680 ,41 ,13 ,0 ,145 ,1360 ,34 ,0 ,6 ,44 ,Fastfood
+Iced Americano,151 ,4 ,3 ,0 ,10 ,63 ,26 ,22 ,0 ,4 ,Fastfood
+Iced Coffee,185 ,4 ,3 ,0 ,12 ,78 ,32 ,27 ,0 ,4 ,Fastfood
+Italian,180 ,2 ,0 ,0 ,0 ,310 ,34 ,1 ,3 ,6 ,Fastfood
+Italian B.M.T,380 ,17 ,6 ,0 ,50 ,1100 ,40 ,3 ,5 ,19 ,Fastfood
+Italian B.M.T. ®,680 ,37 ,14 ,0 ,105 ,2310 ,57 ,4 ,4 ,32 ,Fastfood
+Italian B.M.T. ®,240 ,15 ,6 ,0 ,50 ,870 ,12 ,4 ,5 ,14 ,Fastfood
+Italian B.M.T.®,410 ,29 ,11 ,0 ,105 ,1650 ,13 ,3 ,5 ,25 ,Fastfood
+Italian Herbs & Cheese,220 ,5 ,2 ,0 ,10 ,500 ,37 ,2 ,3 ,8 ,Fastfood
+Jalapeño Cheese,210 ,5 ,2 ,0 ,10 ,420 ,35 ,2 ,3 ,8 ,Fastfood
+Jalapeños,0 ,0 ,0 ,0 ,0 ,70 ,0 ,0 ,0 ,0 ,Fastfood
+Janpanese noodles,356 ,1 ,0 ,0 ,0 ,1840 ,74 ,2 ,4 ,11 ,Fastfood
+juice,47 ,0 ,0 ,0 ,0 ,8 ,12 ,11 ,0 ,0 ,Beverages
+kung pao chicken,258 ,13 ,3 ,0 ,52 ,804 ,14 ,6 ,3 ,20 ,Meat
+L1 Coffee,7 ,0 ,0 ,0 ,0 ,0 ,2 ,0 ,0 ,0 ,Fastfood
+L1 Coffee with milk,36 ,2 ,1 ,0 ,6 ,14 ,2 ,3 ,0 ,1 ,Fastfood
+Large Coca-Cola,217 ,0 ,0 ,0 ,0 ,42 ,54 ,54 ,0 ,0 ,Fastfood
+Large Fanta Oragne,257 ,0 ,0 ,0 ,0 ,110 ,64 ,64 ,0 ,0 ,Fastfood
+Large Fries,449 ,21 ,10 ,0 ,2 ,306 ,54 ,1 ,1 ,7 ,Fastfood
+Large Sprite,237 ,0 ,0 ,0 ,0 ,4 ,59 ,59 ,0 ,0 ,Fastfood
+Large Thums-up,198 ,0 ,0 ,0 ,0 ,50 ,49 ,49 ,0 ,0 ,Fastfood
+Large Wedges,388 ,14 ,6 ,0 ,2 ,675 ,54 ,1 ,1 ,8 ,Fastfood
+Latte,180 ,10 ,8 ,0 ,32 ,134 ,17 ,13 ,0 ,9 ,Beverages
+Latte (L),232 ,13 ,9 ,0 ,39 ,165 ,21 ,15 ,0 ,11 ,Fastfood
+Latte (R),190 ,10 ,8 ,0 ,32 ,134 ,17 ,13 ,0 ,9 ,Fastfood
+Latte (S),148 ,8 ,6 ,0 ,25 ,108 ,13 ,10 ,0 ,7 ,Fastfood
+Lemon Ice Tea,122 ,0 ,0 ,0 ,2 ,10 ,31 ,27 ,0 ,0 ,Fastfood
+Lettuce,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,Fastfood
+Lettuce,1 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,Fastfood
+Lettuce Wrap,5 ,0 ,0 ,0 ,0 ,15 ,1 ,1 ,0 ,1 ,Fastfood
+Light Mayonnaise,50 ,5 ,1 ,0 ,5 ,100 ,1 ,0 ,0 ,0 ,Fastfood
+Link Burger,680 ,46 ,18 ,1 ,140 ,2010 ,27 ,0 ,6 ,39 ,Fastfood
+"Link Burger, Double",930 ,64 ,26 ,2 ,220 ,3040 ,28 ,0 ,6 ,61 ,Fastfood
+"Link Burger, Triple",1190 ,82 ,34 ,3 ,305 ,4070 ,28 ,0 ,7 ,83 ,Fastfood
+Loaded Chocolate Cookies & Cream Shake,1160 ,56 ,32 ,2 ,265 ,450 ,126 ,0 ,108 ,17 ,Fastfood
+Lockhart Link Burger,780 ,56 ,21 ,1 ,155 ,2050 ,27 ,0 ,5 ,39 ,Fastfood
+"Lockhart Link Burger, Double",1040 ,74 ,29 ,2 ,235 ,3080 ,28 ,0 ,5 ,61 ,Fastfood
+"Lockhart Link Burger, Triple",1300 ,92 ,38 ,3 ,320 ,4110 ,29 ,0 ,6 ,83 ,Fastfood
+Low Fat Milk,110 ,2 ,1 ,0 ,10 ,125 ,14 ,0 ,14 ,10 ,Dairy products
+Malt,90 ,1 ,1 ,0 ,5 ,70 ,19 ,0 ,16 ,2 ,Fastfood
+Mango Smoothie,231 ,4 ,3 ,0 ,10 ,85 ,46 ,39 ,0 ,3 ,Fastfood
+mango yogurt,160 ,2 ,1 ,0 ,9 ,123 ,26 ,10 ,2 ,9 ,Dairy products
+Maple Syrup,86 ,0 ,0 ,0 ,0 ,15 ,22 ,16 ,0 ,0 ,Fastfood
+Martin's Potato Roll,180 ,6 ,3 ,0 ,10 ,170 ,24 ,0 ,5 ,7 ,Fastfood
+Mc chicken Burger,401 ,16 ,5 ,0 ,31 ,766 ,48 ,6 ,2 ,16 ,Fastfood
+Mc Egg Burger for Happy Meal,283 ,12 ,4 ,0 ,213 ,399 ,31 ,5 ,0 ,12 ,Fastfood
+Mc Egg Masala Burger,290 ,12 ,4 ,0 ,213 ,758 ,33 ,5 ,0 ,12 ,Fastfood
+Mc Spicy Chicken Burger,452 ,19 ,8 ,0 ,66 ,929 ,46 ,6 ,2 ,21 ,Fastfood
+McAloo Tikki Burger®,340 ,11 ,4 ,0 ,1 ,545 ,50 ,7 ,2 ,9 ,Fastfood
+McSpicy Fried Chicken 1 pc,249 ,14 ,3 ,0 ,31 ,874 ,13 ,1 ,0 ,17 ,Fastfood
+McSpicy Premium Chicken Burger,622 ,35 ,16 ,0 ,303 ,1615 ,44 ,6 ,0 ,31 ,Fastfood
+McSpicy Premium Veg Burger,635 ,39 ,20 ,0 ,44 ,1447 ,46 ,8 ,0 ,22 ,Fastfood
+McSpicy™ Paneer Burger,653 ,39 ,17 ,0 ,22 ,1075 ,52 ,8 ,4 ,20 ,Fastfood
+McSwirl ChocoDip,160 ,7 ,5 ,0 ,6 ,51 ,21 ,15 ,0 ,3 ,Fastfood
+McVeggie™ Burger,402 ,14 ,5 ,0 ,2 ,706 ,57 ,8 ,5 ,10 ,Fastfood
+Meatball Marinara,420 ,18 ,7 ,1 ,40 ,1040 ,47 ,4 ,7 ,19 ,Fastfood
+Meatball Marinara,770 ,39 ,16 ,2 ,75 ,2160 ,75 ,8 ,10 ,34 ,Fastfood
+Meatball Marinara,520 ,32 ,13 ,2 ,80 ,1520 ,33 ,8 ,14 ,28 ,Fastfood
+Meatball Marinara,290 ,16 ,6 ,1 ,40 ,780 ,22 ,7 ,9 ,15 ,Fastfood
+Medium Blackforest,430 ,10 ,6 ,0 ,9 ,188 ,79 ,48 ,0 ,5 ,Fastfood
+Medium Coca-Cola,151 ,0 ,0 ,0 ,0 ,29 ,38 ,38 ,0 ,0 ,Fastfood
+Medium Fanta Orange,179 ,0 ,0 ,0 ,0 ,77 ,45 ,45 ,0 ,0 ,Fastfood
+Medium Fries,318 ,15 ,7 ,0 ,1 ,217 ,38 ,1 ,1 ,5 ,Fastfood
+Medium Soft Serve: Brownie with Hot Fudge,311 ,7 ,5 ,0 ,8 ,146 ,55 ,28 ,0 ,5 ,Fastfood
+Medium Soft Serve: Hot Fudge,197 ,7 ,5 ,0 ,9 ,110 ,30 ,27 ,0 ,3 ,Fastfood
+Medium Soft Serve: Strawberry,156 ,2 ,2 ,0 ,7 ,48 ,32 ,28 ,0 ,2 ,Fastfood
+Medium Sprite,165 ,0 ,0 ,0 ,0 ,3 ,41 ,41 ,0 ,0 ,Fastfood
+Medium Thums-up,138 ,0 ,0 ,0 ,0 ,35 ,34 ,34 ,0 ,0 ,Fastfood
+Medium Wedges,280 ,10 ,5 ,0 ,1 ,488 ,39 ,1 ,1 ,5 ,Fastfood
+"MILK SUBSTITUTES,FLUID,W/LAURIC ACID OIL",61 ,3 ,3 ,0 ,0 ,78 ,6 ,,0 ,2 ,Dairy products
+Mini 9-Grain Wheat,120 ,1 ,0 ,0 ,0 ,180 ,24 ,3 ,2 ,5 ,Fastfood
+Mini Italian,130 ,2 ,0 ,0 ,0 ,230 ,25 ,1 ,2 ,5 ,Fastfood
+Mist TWST Large,220 ,0 ,0 ,0 ,0 ,50 ,58 ,0 ,58 ,0 ,Fastfood
+Mist TWST Small,140 ,0 ,0 ,0 ,0 ,35 ,39 ,0 ,39 ,0 ,Fastfood
+Mix Berry Cooler,104 ,0 ,0 ,0 ,0 ,24 ,26 ,21 ,0 ,0 ,Fastfood
+Mixed Berry Smoothie,235 ,4 ,3 ,0 ,10 ,92 ,47 ,43 ,0 ,3 ,Fastfood
+Mixed Fruit Beverage,72 ,0 ,0 ,0 ,0 ,11 ,18 ,17 ,0 ,1 ,Fastfood
+Mocha,244 ,10 ,7 ,0 ,30 ,168 ,32 ,24 ,0 ,9 ,Beverages
+Mocha (L),302 ,12 ,9 ,0 ,36 ,209 ,40 ,30 ,0 ,11 ,Fastfood
+Mocha (R),244 ,10 ,7 ,0 ,30 ,168 ,32 ,24 ,0 ,9 ,Fastfood
+Mocha (S),186 ,8 ,6 ,0 ,24 ,133 ,23 ,18 ,0 ,7 ,Fastfood
+Mocha Frappe,398 ,15 ,14 ,0 ,9 ,233 ,61 ,48 ,0 ,5 ,Fastfood
+Monterey Cheddar,220 ,5 ,3 ,0 ,10 ,370 ,34 ,1 ,3 ,9 ,Fastfood
+Monterey Cheddar,50 ,5 ,3 ,0 ,15 ,90 ,0 ,0 ,0 ,3 ,Fastfood
+Montlake Double Cut,980 ,68 ,31 ,2 ,240 ,2470 ,36 ,0 ,5 ,54 ,Fastfood
+Montlake Single Cut,670 ,45 ,19 ,1 ,150 ,1560 ,36 ,0 ,5 ,29 ,Fastfood
+Moroccon Mint Green Tea (L),10 ,0 ,0 ,0 ,5 ,24 ,5 ,2 ,0 ,1 ,Fastfood
+Moroccon Mint Green Tea (R),7 ,0 ,0 ,0 ,3 ,18 ,3 ,2 ,0 ,0 ,Fastfood
+Moroccon Mint Green Tea (S),6 ,0 ,0 ,0 ,3 ,15 ,3 ,1 ,0 ,0 ,Fastfood
+Mound City Double,780 ,48 ,20 ,2 ,185 ,2380 ,26 ,0 ,6 ,56 ,Fastfood
+Mountain Dew Large,260 ,0 ,0 ,0 ,0 ,95 ,69 ,0 ,69 ,0 ,Fastfood
+Mountain Dew Small,170 ,0 ,0 ,0 ,0 ,65 ,46 ,0 ,46 ,0 ,Fastfood
+Mustard diping sauce,81 ,6 ,2 ,0 ,0 ,221 ,7 ,7 ,0 ,1 ,Fastfood
+NEW Caprese,510 ,19 ,8 ,0 ,35 ,590 ,60 ,3 ,5 ,21 ,Fastfood
+NEW Cauliflower Fritter Curry Signature Wrap,790 ,31 ,7 ,0 ,5 ,2540 ,113 ,7 ,4 ,15 ,Fastfood
+NEW Chicken Pesto,590 ,21 ,9 ,0 ,85 ,800 ,61 ,3 ,5 ,37 ,Fastfood
+NEW Classic Italian,700 ,36 ,16 ,1 ,95 ,1440 ,62 ,3 ,5 ,31 ,Fastfood
+New Ham  Jack Slider,150 ,5 ,2 ,0 ,20 ,470 ,18 ,1 ,1 ,8 ,Fastfood
+New Italian Spice Slider,230 ,14 ,5 ,0 ,30 ,690 ,18 ,1 ,2 ,8 ,Fastfood
+New Little Cheesesteak Slider,170 ,7 ,2 ,0 ,15 ,430 ,19 ,1 ,2 ,7 ,Fastfood
+New Little Turkey Slider,200 ,9 ,3 ,0 ,25 ,510 ,17 ,1 ,1 ,9 ,Fastfood
+New Southwest Chicken Club,550 ,27 ,9 ,0 ,95 ,1230 ,43 ,5 ,7 ,34 ,Fastfood
+New Steak Club,490 ,25 ,7 ,0 ,70 ,1350 ,40 ,2 ,6 ,27 ,Fastfood
+NEW Ultimate Steak,600 ,35 ,14 ,1 ,80 ,1330 ,42 ,3 ,6 ,31 ,Fastfood
+Oatmeal,150 ,3 ,2 ,0 ,10 ,6 ,26 ,5 ,7 ,5 ,Fastfood
+Oil,45 ,5 ,1 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,Fastfood
+Onion,5 ,0 ,0 ,0 ,0 ,0 ,1 ,0 ,0 ,0 ,Fastfood
+orange,47 ,0 ,0 ,0 ,0 ,4 ,11 ,9 ,0 ,1 ,Fruits
+Orange Juice,165 ,0 ,0 ,0 ,0 ,12 ,41 ,2 ,30 ,3 ,Fastfood
+original yogurt,86 ,1 ,1 ,0 ,5 ,66 ,14 ,5 ,0 ,5 ,Dairy products
+Oven Roasted Chicken,270 ,5 ,2 ,0 ,45 ,540 ,41 ,5 ,8 ,21 ,Fastfood
+Oven Roasted Chicken,470 ,13 ,5 ,0 ,90 ,1390 ,55 ,4 ,5 ,35 ,Fastfood
+Oven Roasted Chicken,200 ,6 ,2 ,0 ,90 ,660 ,11 ,3 ,6 ,27 ,Fastfood
+Oven Roasted Chicken,130 ,4 ,1 ,0 ,45 ,370 ,11 ,4 ,6 ,16 ,Fastfood
+Pancakes,250 ,9 ,0 ,0 ,10 ,8 ,28 ,0 ,7 ,7 ,Fastfood
+Paneer Tikka,570 ,30 ,16 ,1 ,70 ,720 ,48 ,3 ,7 ,29 ,Fastfood
+Parmesan Cheese,5 ,0 ,0 ,0 ,0 ,25 ,0 ,0 ,0 ,1 ,Fastfood
+Parmesan Oregano,190 ,3 ,0 ,0 ,0 ,460 ,37 ,2 ,3 ,7 ,Fastfood
+Pepperjack,50 ,4 ,3 ,0 ,15 ,140 ,0 ,0 ,0 ,2 ,Fastfood
+Pepperoni,80 ,7 ,3 ,0 ,20 ,290 ,1 ,0 ,0 ,3 ,Fastfood
+Pepsi Large,220 ,0 ,0 ,0 ,0 ,50 ,62 ,0 ,62 ,0 ,Fastfood
+Pepsi Small,150 ,0 ,0 ,0 ,0 ,35 ,41 ,0 ,41 ,0 ,Fastfood
+PepsiMAX Large,0 ,0 ,0 ,0 ,0 ,60 ,0 ,0 ,0 ,0 ,Fastfood
+PepsiMAX Small,0 ,0 ,0 ,0 ,0 ,40 ,0 ,0 ,0 ,0 ,Fastfood
+Pickle,1 ,0 ,0 ,0 ,0 ,140 ,0 ,0 ,0 ,0 ,Fastfood
+Pickles,0 ,0 ,0 ,0 ,0 ,115 ,0 ,0 ,0 ,0 ,Fastfood
+Piri piri Mc Spicy Chicken Burger,443 ,17 ,4 ,0 ,64 ,,43 ,9 ,0 ,26 ,Fastfood
+Piri piri Mc Spicy Veg Burger,518 ,25 ,6 ,0 ,8 ,1171 ,59 ,13 ,0 ,12 ,Fastfood
+Piri Piri Mix,17 ,0 ,0 ,0 ,0 ,415 ,3 ,1 ,0 ,1 ,Fastfood
+Pizza Puff,228 ,11 ,6 ,0 ,5 ,391 ,25 ,3 ,5 ,5 ,Fastfood
+Pizza Sub,610 ,48 ,22 ,2 ,135 ,1830 ,18 ,5 ,8 ,30 ,Fastfood
+pork dumpling,202 ,7 ,3 ,0 ,56 ,92 ,16 ,0 ,0 ,17 ,Fastfood
+potato pancake,268 ,14 ,2 ,0 ,95 ,764 ,28 ,2 ,3 ,6 ,Desserts
+Premium Dark Hot Chocolate,214 ,6 ,4 ,0 ,15 ,68 ,33 ,26 ,0 ,6 ,Fastfood
+Provolone,50 ,4 ,2 ,0 ,10 ,125 ,0 ,0 ,0 ,4 ,Fastfood
+Puddings,108 ,2 ,1 ,0 ,12 ,97 ,18 ,12 ,0 ,3 ,Desserts
+Pumpkin Patch Shake,820 ,44 ,26 ,0 ,250 ,970 ,87 ,3 ,81 ,21 ,Fastfood
+Purple Cow Float,460 ,15 ,9 ,0 ,100 ,210 ,79 ,0 ,78 ,7 ,Fastfood
+Ranch,70 ,8 ,2 ,0 ,5 ,140 ,1 ,0 ,1 ,0 ,Fastfood
+Raw Mango Cooler,102 ,0 ,0 ,0 ,0 ,103 ,25 ,21 ,0 ,0 ,Fastfood
+Red Onions,0 ,0 ,0 ,0 ,0 ,0 ,1 ,0 ,0 ,0 ,Fastfood
+Red Wine Vinegar,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,Fastfood
+Regular Blackforest,238 ,5 ,4 ,0 ,6 ,104 ,43 ,28 ,0 ,3 ,Fastfood
+Regular Fries,470 ,22 ,5 ,0 ,15 ,740 ,63 ,7 ,1 ,6 ,Fastfood
+Regular Fries,470 ,22 ,5 ,0 ,15 ,740 ,63 ,7 ,1 ,6 ,Fastfood
+Regular Fries,225 ,10 ,5 ,0 ,1 ,153 ,27 ,0 ,0 ,3 ,Fastfood
+Regular Mayonnaise,100 ,11 ,2 ,0 ,10 ,65 ,0 ,0 ,0 ,0 ,Fastfood
+Regular McFlurry - Oreo,209 ,7 ,4 ,0 ,8 ,151 ,33 ,25 ,0 ,4 ,Fastfood
+Regular Soft Serve: Brownie with Hot Fudge,205 ,5 ,4 ,0 ,6 ,101 ,35 ,21 ,0 ,3 ,Fastfood
+Regular Soft Serve: Hot Fudge,122 ,4 ,3 ,0 ,6 ,66 ,19 ,17 ,0 ,2 ,Fastfood
+Regular Soft Serve: Strawberry,101 ,2 ,1 ,0 ,5 ,35 ,20 ,18 ,0 ,2 ,Fastfood
+Regular Wedges,205 ,7 ,3 ,0 ,1 ,356 ,29 ,0 ,1 ,4 ,Fastfood
+Roadside Double Burger,770 ,46 ,20 ,2 ,175 ,2300 ,32 ,0 ,7 ,53 ,Fastfood
+Roadside Double Burger,770 ,46 ,20 ,2 ,175 ,2300 ,32 ,0 ,7 ,53 ,Fastfood
+Roast Beef,140 ,4 ,1 ,0 ,45 ,460 ,10 ,4 ,5 ,19 ,Fastfood
+Roast Beef,280 ,5 ,2 ,0 ,45 ,630 ,40 ,6 ,7 ,25 ,Fastfood
+Roast Beef,490 ,13 ,5 ,0 ,90 ,1560 ,53 ,4 ,4 ,42 ,Fastfood
+Roast Beef,140 ,4 ,1 ,0 ,45 ,460 ,10 ,4 ,5 ,19 ,Fastfood
+Roasted Garlic,210 ,3 ,0 ,0 ,0 ,1230 ,41 ,2 ,4 ,7 ,Fastfood
+Root Beer Float,430 ,15 ,9 ,0 ,100 ,220 ,70 ,0 ,69 ,7 ,Fastfood
+Rosemary & Sea Salt,220 ,3 ,1 ,0 ,0 ,490 ,40 ,2 ,3 ,7 ,Fastfood
+Rotisserie-Style Chicken,310 ,6 ,3 ,0 ,55 ,520 ,40 ,5 ,7 ,28 ,Fastfood
+Rotisserie-Style Chicken,550 ,16 ,7 ,0 ,115 ,1350 ,53 ,3 ,3 ,49 ,Fastfood
+Rotisserie-Style Chicken,170 ,5 ,2 ,0 ,55 ,360 ,10 ,4 ,5 ,23 ,Fastfood
+Salted Caramel Shake,840 ,42 ,26 ,0 ,260 ,950 ,99 ,0 ,96 ,17 ,Fastfood
+Sausage Breakfast Sandwich,340 ,19 ,9 ,0 ,215 ,610 ,25 ,0 ,5 ,17 ,Fastfood
+Sausage Breakfast Sandwich (Double Egg),430 ,25 ,11 ,0 ,400 ,700 ,25 ,0 ,5 ,23 ,Fastfood
+Sausage Link,240 ,20 ,7 ,0 ,40 ,682 ,2 ,0 ,0 ,9 ,Fastfood
+Sausage Mc Muffin,281 ,11 ,6 ,0 ,53 ,743 ,29 ,2 ,0 ,16 ,Fastfood
+Sausage Mc Muffin with egg,281 ,11 ,6 ,0 ,53 ,743 ,29 ,2 ,0 ,16 ,Fastfood
+Sausage Mc Muffin with egg,290 ,16 ,8 ,0 ,265 ,804 ,29 ,3 ,0 ,22 ,Fastfood
+Savory Rotisserie-Style Chicken Caesar,640 ,29 ,11 ,0 ,115 ,1500 ,52 ,3 ,3 ,47 ,Fastfood
+Shack Red (6 oz),150 ,0 ,0 ,0 ,0 ,0 ,5 ,0 ,0 ,0 ,Fastfood
+Shack Red Bottle (750 ml),620 ,0 ,0 ,0 ,0 ,0 ,19 ,0 ,0 ,1 ,Fastfood
+Shack Red Can (8.4 oz),210 ,0 ,0 ,0 ,0 ,10 ,6 ,0 ,0 ,0 ,Fastfood
+Shack Rosé Can (8.4 oz),210 ,0 ,0 ,0 ,0 ,10 ,9 ,0 ,0 ,1 ,Fastfood
+Shack Sparkling Can (8.4 oz),200 ,0 ,0 ,0 ,0 ,15 ,6 ,0 ,0 ,0 ,Fastfood
+Shack Stack,770 ,45 ,18 ,2 ,125 ,1700 ,50 ,0 ,7 ,40 ,Fastfood
+Shack Stack®,770 ,45 ,18 ,2 ,125 ,1700 ,50 ,0 ,7 ,40 ,Fastfood
+Shack White (6 oz),140 ,0 ,0 ,0 ,0 ,0 ,4 ,0 ,0 ,0 ,Fastfood
+Shack White Bottle (750 ml),600 ,0 ,0 ,0 ,0 ,0 ,15 ,0 ,0 ,1 ,Fastfood
+Shack White Can (8.4 oz),200 ,0 ,0 ,0 ,0 ,10 ,5 ,0 ,0 ,0 ,Fastfood
+SHACK2O,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,0 ,Fastfood
+Shack-made Lemonade Large,270 ,0 ,0 ,0 ,0 ,15 ,70 ,0 ,66 ,0 ,Fastfood
+Shack-made Lemonade Small,160 ,0 ,0 ,0 ,0 ,10 ,43 ,0 ,40 ,0 ,Fastfood
+Shackmeister Cheddar Brat,690 ,51 ,21 ,1 ,95 ,1210 ,33 ,0 ,6 ,27 ,Fastfood
+ShackSauce,60 ,6 ,1 ,0 ,10 ,60 ,0 ,0 ,0 ,0 ,Fastfood
+Shredded Mozzarella,40 ,3 ,2 ,0 ,10 ,100 ,0 ,0 ,0 ,3 ,Fastfood
+shrimp,78 ,3 ,1 ,0 ,36 ,375 ,5 ,2 ,1 ,6 ,Seafood
+Single Cheeseburger,440 ,24 ,11 ,1 ,95 ,1200 ,25 ,0 ,5 ,29 ,Fastfood
+Single Chocolate Cup,310 ,19 ,11 ,1 ,110 ,120 ,32 ,0 ,29 ,6 ,Fastfood
+Single Hamburger,370 ,18 ,8 ,1 ,75 ,850 ,24 ,0 ,5 ,25 ,Fastfood
+Single ShackBurger®,500 ,30 ,12 ,1 ,105 ,1250 ,26 ,0 ,6 ,29 ,Fastfood
+Single SmokeShack™,570 ,35 ,13 ,1 ,120 ,2010 ,28 ,0 ,7 ,36 ,Fastfood
+Single Vanilla & Chocolate Cup,290 ,17 ,10 ,0 ,105 ,150 ,31 ,0 ,29 ,6 ,Fastfood
+Single Vanilla Cup,280 ,15 ,9 ,0 ,100 ,180 ,30 ,0 ,30 ,7 ,Fastfood
+"Slap Shot Burger, Double",680 ,40 ,15 ,2 ,145 ,1840 ,33 ,0 ,6 ,47 ,Fastfood
+"Slap Shot Burger, Single",490 ,27 ,10 ,1 ,80 ,1150 ,33 ,0 ,6 ,28 ,Fastfood
+Small Coca-Cola,110 ,0 ,0 ,0 ,0 ,21 ,27 ,27 ,0 ,0 ,Fastfood
+Small Fanta Oragne,129 ,0 ,0 ,0 ,0 ,56 ,32 ,32 ,0 ,0 ,Fastfood
+Small McFlurry - Oreo,116 ,4 ,2 ,0 ,5 ,81 ,19 ,14 ,0 ,2 ,Fastfood
+Small Sprite,120 ,0 ,0 ,0 ,0 ,2 ,30 ,30 ,0 ,0 ,Fastfood
+Small Thums-up,100 ,0 ,0 ,0 ,0 ,25 ,25 ,25 ,0 ,0 ,Fastfood
+smoke sausage,159 ,6 ,1 ,0 ,2 ,670 ,7 ,1 ,4 ,19 ,Meat
+Soft serve cone,86 ,2 ,1 ,0 ,5 ,41 ,15 ,11 ,0 ,2 ,Fastfood
+sour pork,540 ,27 ,5 ,0 ,48 ,608 ,47 ,21 ,2 ,18 ,Meat
+Southwest Chipotle Chicken Club,780 ,53 ,15 ,1 ,180 ,1750 ,25 ,11 ,11 ,54 ,Fastfood
+Spicy Brown Mustard,15 ,1 ,0 ,0 ,0 ,260 ,1 ,0 ,0 ,0 ,Fastfood
+Spicy Chicken Wrap,567 ,27 ,13 ,0 ,88 ,1152 ,57 ,3 ,8 ,24 ,Fastfood
+Spicy Chicken Wrap,567 ,27 ,13 ,0 ,88 ,1152 ,57 ,3 ,8 ,24 ,Fastfood
+Spicy Egg McMuffin,278 ,12 ,3 ,0 ,213 ,774 ,31 ,3 ,0 ,11 ,Fastfood
+Spicy Italian,450 ,24 ,9 ,0 ,60 ,1240 ,40 ,3 ,5 ,18 ,Fastfood
+Spicy Italian,820 ,52 ,20 ,1 ,125 ,2580 ,57 ,4 ,3 ,31 ,Fastfood
+Spicy Italian,550 ,45 ,17 ,1 ,125 ,1910 ,12 ,3 ,4 ,24 ,Fastfood
+Spicy Italian,300 ,23 ,8 ,0 ,60 ,1000 ,12 ,4 ,5 ,14 ,Fastfood
+Spicy Paneer Wrap,675 ,39 ,20 ,0 ,41 ,1087 ,59 ,4 ,6 ,21 ,Fastfood
+Spinach,0 ,0 ,0 ,0 ,0 ,5 ,0 ,0 ,0 ,0 ,Fastfood
+Spinach Wrap,290 ,8 ,4 ,0 ,0 ,780 ,48 ,2 ,1 ,8 ,Fastfood
+Sprite Float,145 ,2 ,1 ,0 ,5 ,47 ,31 ,30 ,0 ,2 ,Fastfood
+Sprite Large,240 ,0 ,0 ,0 ,0 ,55 ,60 ,0 ,53 ,0 ,Fastfood
+Sprite Small,140 ,0 ,0 ,0 ,0 ,30 ,36 ,0 ,32 ,0 ,Fastfood
+Steak & Cheese,370 ,19 ,10 ,1 ,105 ,1320 ,15 ,3 ,7 ,36 ,Fastfood
+Steak & Cheese,200 ,9 ,5 ,0 ,50 ,830 ,13 ,4 ,7 ,19 ,Fastfood
+Steak Cheese,340 ,10 ,5 ,0 ,50 ,1060 ,39 ,2 ,5 ,22 ,Fastfood
+Steak Cheese Fresh Melt,520 ,29 ,11 ,1 ,80 ,1550 ,41 ,2 ,6 ,26 ,Fastfood
+Steak Club,440 ,26 ,11 ,1 ,115 ,1520 ,13 ,3 ,7 ,39 ,Fastfood
+Steak Club Salad,480 ,25 ,10 ,1 ,120 ,2090 ,21 ,6 ,10 ,45 ,Fastfood
+Steak Fiesta Signature Wrap,470 ,15 ,5 ,0 ,55 ,1370 ,56 ,1 ,3 ,28 ,Fastfood
+"Steak, Egg & Cheese",450 ,18 ,6 ,1 ,195 ,1270 ,48 ,4 ,5 ,28 ,Fastfood
+Strawberry Green Tea,8 ,0 ,0 ,0 ,3 ,17 ,3 ,2 ,0 ,1 ,Beverages
+Strawberry Green Tea (L),11 ,0 ,0 ,0 ,5 ,24 ,5 ,2 ,0 ,1 ,Fastfood
+Strawberry Green Tea (R),8 ,0 ,0 ,0 ,3 ,17 ,3 ,2 ,0 ,1 ,Fastfood
+Strawberry Green Tea (S),7 ,0 ,0 ,0 ,3 ,15 ,3 ,1 ,0 ,0 ,Fastfood
+Strawberry Ice Tea,95 ,0 ,0 ,0 ,2 ,10 ,24 ,21 ,0 ,0 ,Fastfood
+Strawberry Shake,690 ,35 ,21 ,0 ,230 ,430 ,77 ,0 ,75 ,17 ,Fastfood
+Strawberry Shake,256 ,7 ,7 ,0 ,8 ,140 ,44 ,37 ,0 ,4 ,Fastfood
+strawberry yogurt,160 ,2 ,1 ,0 ,9 ,123 ,26 ,10 ,2 ,9 ,Beverages
+Subway Club,280 ,4 ,2 ,0 ,45 ,800 ,41 ,5 ,7 ,25 ,Fastfood
+Subway Club®,500 ,12 ,5 ,0 ,85 ,1900 ,56 ,4 ,5 ,42 ,Fastfood
+Subway Club®,140 ,3 ,1 ,0 ,45 ,630 ,11 ,4 ,6 ,19 ,Fastfood
+Subway Melt,380 ,13 ,5 ,0 ,55 ,1250 ,41 ,2 ,6 ,25 ,Fastfood
+Subway Melt,380 ,13 ,5 ,0 ,55 ,1250 ,41 ,2 ,6 ,25 ,Fastfood
+Subway Melt®,630 ,25 ,10 ,0 ,100 ,2400 ,58 ,3 ,6 ,43 ,Fastfood
+Subway Melt®,430 ,24 ,10 ,1 ,120 ,1700 ,14 ,3 ,7 ,41 ,Fastfood
+Subway Melt®,460 ,23 ,9 ,0 ,110 ,2030 ,26 ,8 ,13 ,42 ,Fastfood
+Subway Seafood Sensation™,700 ,41 ,9 ,0 ,35 ,1790 ,67 ,4 ,7 ,18 ,Fastfood
+Subway® Vinaigrette,35 ,4 ,1 ,0 ,0 ,110 ,1 ,0 ,1 ,0 ,Fastfood
+Sweet Corn,45 ,1 ,0 ,0 ,2 ,0 ,8 ,3 ,0 ,1 ,Fastfood
+Sweet Lime Beverage,128 ,0 ,0 ,0 ,0 ,66 ,32 ,29 ,0 ,0 ,Fastfood
+Sweet Onion Chicken Teriyaki,320 ,4 ,1 ,0 ,50 ,720 ,52 ,5 ,16 ,25 ,Fastfood
+Sweet Onion Chicken Teriyaki,320 ,4 ,1 ,0 ,50 ,720 ,52 ,5 ,16 ,25 ,Fastfood
+Sweet Onion Chicken Teriyaki,540 ,12 ,5 ,0 ,95 ,1610 ,70 ,4 ,14 ,42 ,Fastfood
+Sweet Onion Chicken Teriyaki,300 ,5 ,2 ,0 ,95 ,1020 ,33 ,3 ,22 ,34 ,Fastfood
+Sweet Onion Chicken Teriyaki,210 ,3 ,1 ,0 ,50 ,630 ,30 ,4 ,20 ,19 ,Fastfood
+Sweet Onion Sauce,30 ,0 ,0 ,0 ,0 ,75 ,8 ,0 ,7 ,0 ,Fastfood
+Swiss,50 ,5 ,3 ,0 ,15 ,30 ,0 ,0 ,0 ,4 ,Fastfood
+tacco,282 ,12 ,5 ,0 ,130 ,642 ,23 ,3 ,0 ,16 ,Fastfood
+The Bacon Tatum,470 ,25 ,5 ,0 ,55 ,1320 ,37 ,2 ,4 ,24 ,Fastfood
+The Bacon Tatum,470 ,25 ,5 ,0 ,55 ,1320 ,37 ,2 ,4 ,24 ,Fastfood
+The DrayPotle Steak,410 ,17 ,6 ,1 ,55 ,1230 ,40 ,2 ,6 ,24 ,Fastfood
+The DrayPotle Steak,410 ,17 ,6 ,1 ,55 ,1230 ,40 ,2 ,6 ,24 ,Fastfood
+Tomato,5 ,0 ,0 ,0 ,0 ,0 ,1 ,0 ,0 ,0 ,Fastfood
+Tomato,5 ,0 ,0 ,0 ,0 ,0 ,1 ,0 ,0 ,0 ,Fastfood
+Tomato Basil Wrap,290 ,8 ,4 ,0 ,0 ,730 ,49 ,2 ,1 ,8 ,Fastfood
+Tomato juice,50 ,0 ,0 ,0 ,1 ,0 ,10 ,1 ,5 ,2 ,Beverages
+Tomato Ketchup Sachets,11 ,23 ,0 ,0 ,0 ,71 ,3 ,2 ,0 ,0 ,Fastfood
+Tomatoes,5 ,0 ,0 ,0 ,0 ,0 ,1 ,0 ,1 ,0 ,Fastfood
+Tuna,450 ,25 ,5 ,0 ,40 ,610 ,38 ,2 ,5 ,19 ,Fastfood
+Tuna,450 ,25 ,5 ,0 ,40 ,610 ,38 ,2 ,5 ,19 ,Fastfood
+Tuna,820 ,54 ,11 ,1 ,75 ,1330 ,53 ,3 ,3 ,33 ,Fastfood
+Tuna,550 ,47 ,8 ,1 ,75 ,660 ,8 ,3 ,4 ,26 ,Fastfood
+Tuna,310 ,24 ,4 ,0 ,40 ,370 ,10 ,4 ,5 ,15 ,Fastfood
+Tuna Fresh Melt,600 ,37 ,11 ,1 ,75 ,1010 ,36 ,2 ,3 ,30 ,Fastfood
+Tuna Fresh Melt,600 ,37 ,11 ,1 ,75 ,1010 ,36 ,2 ,3 ,30 ,Fastfood
+Turkey  Bacon,330 ,9 ,3 ,0 ,45 ,1050 ,40 ,2 ,6 ,24 ,Fastfood
+Turkey  Bacon Guacamole,780 ,27 ,6 ,0 ,90 ,2280 ,87 ,9 ,12 ,49 ,Fastfood
+Turkey & bacon,310 ,13 ,4 ,0 ,90 ,1530 ,12 ,3 ,6 ,36 ,Fastfood
+Turkey & Bacon,190 ,7 ,2 ,0 ,45 ,810 ,12 ,4 ,6 ,20 ,Fastfood
+Turkey & Bacon Avocado Wrap,750 ,36 ,11 ,0 ,105 ,2460 ,60 ,5 ,5 ,47 ,Fastfood
+Turkey & Bacon Guacamole,420 ,23 ,6 ,0 ,90 ,1720 ,19 ,7 ,7 ,37 ,Fastfood
+Turkey & Bacon with Avocado Salad,610 ,36 ,7 ,0 ,90 ,1620 ,36 ,16 ,12 ,44 ,Fastfood
+Turkey Apple Signature Wrap,720 ,32 ,11 ,0 ,105 ,2450 ,63 ,5 ,10 ,47 ,Fastfood
+Turkey Breast,250 ,3 ,1 ,0 ,30 ,730 ,41 ,5 ,7 ,20 ,Fastfood
+Turkey Breast,440 ,9 ,4 ,0 ,55 ,1770 ,55 ,3 ,4 ,33 ,Fastfood
+Turkey Breast,160 ,2 ,0 ,0 ,55 ,1030 ,11 ,3 ,5 ,25 ,Fastfood
+Turkey Breast,110 ,2 ,0 ,0 ,30 ,560 ,11 ,4 ,5 ,14 ,Fastfood
+Turkey Breast & Black Forest Ham,170 ,4 ,1 ,0 ,55 ,1020 ,11 ,3 ,6 ,23 ,Fastfood
+Turkey Breast Black Forest Ham,260 ,3 ,1 ,0 ,30 ,720 ,41 ,5 ,7 ,19 ,Fastfood
+Turkey Italiano,510 ,37 ,16 ,1 ,130 ,1830 ,13 ,3 ,5 ,33 ,Fastfood
+Turkey Italiano,230 ,15 ,5 ,0 ,50 ,870 ,12 ,4 ,5 ,15 ,Fastfood
+Turkey Reuben,430 ,13 ,4 ,0 ,75 ,1660 ,41 ,6 ,8 ,35 ,Fastfood
+"Turkey, Bacon & Avocado",370 ,19 ,5 ,0 ,90 ,1530 ,15 ,5 ,6 ,37 ,Fastfood
+"Turkey, Bacon & Guacamole",760 ,37 ,12 ,0 ,105 ,2560 ,61 ,6 ,6 ,47 ,Fastfood
+Ultimate Meatball Marinara,720 ,45 ,19 ,2 ,80 ,1520 ,51 ,6 ,8 ,30 ,Fastfood
+Ultimate Spicy Italian,730 ,52 ,21 ,1 ,105 ,1720 ,40 ,3 ,3 ,28 ,Fastfood
+Vanilla Chocochips Muffin,329 ,15 ,7 ,0 ,79 ,255 ,40 ,30 ,0 ,4 ,Fastfood
+Vanilla Shake,680 ,36 ,22 ,0 ,235 ,430 ,72 ,0 ,1 ,18 ,Beverages
+Vanilla Shake,680 ,36 ,22 ,0 ,235 ,430 ,72 ,0 ,71 ,18 ,Fastfood
+vanilla yogurt,86 ,1 ,1 ,0 ,5 ,66 ,14 ,5 ,0 ,5 ,Dairy products
+Vedica Natural Mineral Water,0 ,0 ,0 ,0 ,0 ,3 ,0 ,0 ,0 ,0 ,Fastfood
+Veg Maharaja Mac,833 ,38 ,17 ,0 ,36 ,1529 ,94 ,12 ,13 ,24 ,Fastfood
+Veg McMuffin,309 ,12 ,7 ,0 ,25 ,805 ,39 ,3 ,0 ,10 ,Fastfood
+Veg Pizza,298 ,14 ,0 ,0 ,0 ,692 ,30 ,3 ,2 ,12 ,Fastfood
+Vegetable,80 ,2 ,2 ,0 ,0 ,2 ,14 ,0 ,15 ,4 ,Vegetables
+Veggie Delite,50 ,1 ,0 ,0 ,0 ,75 ,9 ,4 ,5 ,3 ,Vegetables
+Veggie Delite,190 ,2 ,1 ,0 ,0 ,240 ,39 ,5 ,6 ,9 ,Fastfood
+Veggie Delite®,330 ,8 ,4 ,0 ,0 ,800 ,55 ,5 ,5 ,10 ,Fastfood
+Veggie Delite®,50 ,1 ,0 ,0 ,0 ,75 ,9 ,4 ,5 ,3 ,Fastfood
+Veggie Patty,330 ,11 ,2 ,0 ,0 ,1110 ,33 ,10 ,7 ,31 ,Fastfood
+Veggie Shack,530 ,27 ,7 ,0 ,20 ,1250 ,56 ,6 ,10 ,16 ,Fastfood
+"Veggie Shack, vegan",390 ,22 ,2 ,0 ,0 ,1130 ,50 ,6 ,8 ,6 ,Fastfood
+"Veggie Shack, vegan, lettuce wrap",310 ,18 ,2 ,0 ,0 ,900 ,31 ,4 ,6 ,4 ,Fastfood
+Whipped Cream,70 ,5 ,4 ,0 ,20 ,20 ,5 ,0 ,4 ,1 ,Fastfood
+whole milk yogurt,160 ,2 ,1 ,0 ,9 ,123 ,26 ,10 ,2 ,9 ,Dairy products
+whole-wheat-bread,102 ,1 ,0 ,0 ,0 ,0 ,20 ,0 ,0 ,4 ,Fastfood
+Yellow Mustard,10 ,1 ,0 ,0 ,0 ,170 ,1 ,0 ,0 ,0 ,Fastfood
+"YOGURT,FRUIT,LOFAT,9 GRAMS PROT PER 8 OZ",99 ,1 ,1 ,0 ,5 ,53 ,19 ,19 ,0 ,4 ,Dairy products
+"YOGURT,PLN,LOFAT,12 GRAMS PROT PER 8 OZ",63 ,1 ,1 ,0 ,6 ,70 ,7 ,7 ,0 ,5 ,Dairy products
+"YOGURT,PLN,SKIM MILK,13 GRAMS PROT PER 8 OZ",56 ,0 ,0 ,0 ,2 ,77 ,8 ,8 ,0 ,6 ,Dairy products
+"YOGURT,PLN,WHL MILK,8 GRAMS PROT PER 8 OZ",61 ,3 ,2 ,0 ,13 ,46 ,5 ,5 ,0 ,3 ,Dairy products
+"YOGURT,VANILLA,LOFAT,11 GRAMS PROT PER 8 OZ",85 ,1 ,1 ,0 ,5 ,66 ,14 ,14 ,0 ,5 ,Dairy products
+‘Shroom Burger,510 ,27 ,10 ,1 ,45 ,670 ,49 ,0 ,7 ,18 ,Fastfood

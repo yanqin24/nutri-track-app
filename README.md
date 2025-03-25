@@ -19,12 +19,10 @@ NutriTrack enables users to input their dietary information, automatically analy
 ---
 
 ## 💡 Tech Stack
-- **Backend**: Python, Flask  
-- **Database**: MySQL  
+- **Backend**: Python
 - **Data Processing**: Pandas, NumPy  
 - **Visualization**: Matplotlib, Seaborn  
 - **Export Tools**: Openpyxl, ReportLab  
-- **Deployment Ready**: Can be hosted with Flask or deployed to AWS/GCP
 
 ---
 
@@ -41,18 +39,13 @@ python app.py
 ```
 Then open http://localhost:5000 in your browser.
 
-## Project Structure
-```
-├── app.py                      # Main Flask app
-├── templates/                  # HTML templates
-├── static/                     # CSS and images
-├── data/recipes.csv            # Sample recipe dataset
-├── reports/                    # Exported PDF, XLS, JPG
-├── utils/
-│   ├── analysis.py             # Nutrition calculations
-│   ├── report_generator.py     # PDF/Excel generation
-├── requirements.txt
-```
+## Screenshot
+<img width="854" alt="image" src="https://github.com/user-attachments/assets/c28fd2ac-a95a-4cc6-ad42-43d79231d436" />
+<img width="856" alt="image" src="https://github.com/user-attachments/assets/35b791ea-7967-4076-bf56-5d86ec6bdb73" />
+<img width="856" alt="image" src="https://github.com/user-attachments/assets/a5884894-cc4b-4e64-99e7-c6162195a6a6" />
+<img width="856" alt="image" src="https://github.com/user-attachments/assets/cccfb6e1-c4b4-4d38-acb3-d29933ca0d88" />
+<img width="855" alt="image" src="https://github.com/user-attachments/assets/1eb4ff49-39f5-4230-8c93-d5f1ad37d8bf" />
+<img width="856" alt="image" src="https://github.com/user-attachments/assets/df5ff96a-d231-4c0a-b327-ceb2354c9349" />
 
 ## License
 This project is licensed under the MIT License.

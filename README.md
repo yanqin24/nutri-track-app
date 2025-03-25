@@ -51,7 +51,7 @@ Then open http://localhost:5000 in your browser.
 This project is licensed under the MIT License.
 Images and icons used are royalty-free or generated internally.
 
-## Author
+## Contributor
 Yan Qin
 Qianyi Wu
 
